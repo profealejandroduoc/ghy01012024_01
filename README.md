@@ -2,4 +2,4 @@
 
 ### proyecto para usar github
 
-### Pueba de push
+### Prueba de push
